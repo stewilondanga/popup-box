@@ -97,10 +97,11 @@ h1 {
   color: #333;
 }
 
-/*.popup .close:hover {
+.popup .close:hover {
   color: #06D85F;
 }
-.popup .content {
+
+/*.popup .content {
   max-height: 30%;
   overflow: auto;
 }
