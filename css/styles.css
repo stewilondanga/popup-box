@@ -53,7 +53,7 @@ h1 {
   background: #06D85F;
 }
 
-/*.overlay {
+.overlay {
   position: fixed;
   top: 0;
   bottom: 0;
@@ -64,7 +64,8 @@ h1 {
   visibility: hidden;
   opacity: 0;
 }
-.overlay:target {
+
+/*.overlay:target {
   visibility: visible;
   opacity: 1;
 }
