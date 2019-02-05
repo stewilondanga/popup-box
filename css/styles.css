@@ -65,12 +65,12 @@ h1 {
   opacity: 0;
 }
 
-/*.overlay:target {
+.overlay:target {
   visibility: visible;
   opacity: 1;
 }
 
-.popup {
+/*.popup {
   margin: 70px auto;
   padding: 20px;
   background: #fff;
